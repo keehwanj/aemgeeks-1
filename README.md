@@ -13,6 +13,7 @@ The main parts of the template are:
 * ui.launcher: contains glue code that deploys the ui.tests bundle (and dependent bundles) to the server and triggers the remote JUnit execution
 * ui.frontend: an optional dedicated front-end build mechanism (Angular, React or general Webpack project)
 * version 1 in y2023-m07-d14
+* version 1 in y2023-m07-d14-2
 
 ## How to build
 
